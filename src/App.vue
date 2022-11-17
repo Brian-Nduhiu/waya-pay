@@ -3,7 +3,7 @@
 
 
  <div class="flex min-h-full items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
-  <div class="w-full max-w-xl space-y-8"> 
+  <div class="w-full max-w-xl space-y-8 md:bg-slate-50 md:bg-opacity-50 md:p-10 md:rounded-[3.5rem]"> 
     <div>
       <img class="mx-auto h-12 w-auto" src="https://getwaya.com/wp-content/uploads/2022/10/Waya-Alt-1.png" alt="Your Company">
       <h2 class="mt-6 text-center text-3xl font-bold tracking-tight text-gray-900">Sign Up</h2>
